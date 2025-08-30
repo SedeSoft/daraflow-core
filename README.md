@@ -1,4 +1,10 @@
-# 🌐 Daraflow
+# Daraflow Core
+
+ ____                   __ _                  ____               
+|  _ \  __ _ _ __ __ _ / _| | _____      __  / ___|___  _ __ ___ 
+| | | |/ _` | '__/ _` | |_| |/ _ \ \ /\ / / | |   / _ \| '__/ _ \
+| |_| | (_| | | | (_| |  _| | (_) \ V  V /  | |__| (_) | | |  __/
+|____/ \__,_|_|  \__,_|_| |_|\___/ \_/\_/    \____\___/|_|  \___|
 
 **A Prompt to AI File Semantic Parser**  
 Daraflow te permite transformar *Prompts* en **APIs listas para usar**, capaces de recibir documentos y devolver salidas estructuradas en JSON, sin necesidad de programar nada.  
